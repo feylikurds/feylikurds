@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @feylikurds
 - 👀 I’m interested in AI.
-- 🌱 I’m currently learning .NET Maui.
+- 🌱 I’m currently learning .NET MAUI.
 - 💞️ I’m looking to collaborate on open-source projects.
 - 📫 How to reach me: aryopehlewan@hotmail.com
 

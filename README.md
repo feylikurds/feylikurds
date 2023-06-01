@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @feylikurds
 - 👀 I’m interested in machine learning and AI.
-- 🌱 I’m currently learning .NET MAUI.
+- 🌱 I’m currently learning Rust.
 - 💞️ I’m looking to collaborate on open-source projects.
 - 📫 How to reach me: aryopehlewan@hotmail.com
 
